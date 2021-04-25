@@ -25,7 +25,7 @@ support:
 
 ```bash
 mkdir ~/.vim/pack/plugin/start/vim-executioner
-git clone https://github.com/EvanQuan/vim-executioner.git ~/.vim/pack/plugin/start/vim-executioner
+git clone https://github.com/niczy/vim-executioner.git ~/.vim/pack/plugin/start/vim-executioner
 ```
 
 #### [Vim-Plug](https://github.com/junegunn/vim-plug)
